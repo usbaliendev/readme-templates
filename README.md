@@ -8,4 +8,4 @@
 ## 🥳 Recursos para os READMEs
 
 [![CARDS ESTRELAS](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFFF00)](https://github.com/usbangelo/readme-templates/blob/master/README-cards-stars/cards-stars.md)
-[![Badges](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=0000FF)](vhttps://github.com/usbangelo/readme-templates/blob/master/badges/badges.md)
+[![Badges](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=0000FF)](https://github.com/usbangelo/readme-templates/blob/master/badges/badges.md)
